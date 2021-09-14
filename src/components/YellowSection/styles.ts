@@ -31,6 +31,7 @@ export const Container = styled.div`
         background-position-y: 40%;
 
         .clipped {
+            top: 25%;
             right: 7%;
             font-size: 3.5rem;
             letter-spacing: .35rem;
@@ -113,6 +114,7 @@ export const Title = styled.h1`
         right: 7%;
         font-size: 3.5rem;
         letter-spacing: .35rem;
+        top: 25%;
     }
 `;
 

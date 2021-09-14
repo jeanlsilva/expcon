@@ -25,7 +25,7 @@ export default function YellowSection() {
                         <clipPath id="myClip">
                             <circle cx={clientX} cy={clientY} r={(width - 300) / 10} />                            
                             <circle cx={width / 3} cy={height / 3} r={(width - 50)/ 10} />
-                            <circle cx={(width - 600) / 3} cy={height - 1000 / 3} r={(width + 900) / 10} />
+                            <circle cx={(width - 600) / 3} cy={height / 1.5} r={(width + 900) / 10} />
                             <circle cx={width - 150} cy={height - 100} r="251"></circle>
                         </clipPath>
                     </defs>
