@@ -1,3 +1,26 @@
+# EXP|CON - Fictional project for test assessment
+
+The purpose of this project is test the creator's skills in Frontend web development, using Javascript/Typescript skills such as React.js and micro frontends to build a full application from scratch.
+
+The application was developed with React library, using Create React App (CRA) boilerplate.
+
+The style was created with Styled Components, which helps to keep all styles isolated avoiding conflicts between components and pages.
+
+The application has 3 pages:
+
+- Home page - with the main information of the goal business of fictional company EXP|CON
+- Pricing - Explanation about costs of each plan for the product on sale, in this case, live concerts tickets packages, as well as its perks
+- Payment - Page with a form to insert user's personal and payment informations, in order to finish the purchase
+
+The whole application is so far responsive for large (1920px width) and regular (1200px width) screens. The responsivity for tablets and smartphone can be implemented if required for the purpose of the assessment.
+
+Due to relatively short deadline, I coudn't deal with all potential issues related to code reuse and abstraction. But in a general perpective the code of the code is clean and easily maintainable.
+
+Created by Jean Silva - https://www.linkedin.com/in/jeanlucasdasilva
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
